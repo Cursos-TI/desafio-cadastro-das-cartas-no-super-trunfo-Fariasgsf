@@ -97,7 +97,7 @@ int main(){
     printf("\n");
 
     // Comparação das cartas
-    printf("Comparação de Cartas:\n")
+    printf("Comparação de Cartas:\n");
     printf("População: %d\n", (Populacao1 >= Populacao2));
     printf("Área: %d\n", (Area1 >= Area2));
     printf("PIB: %d\n", (PIB1 >= PIB2));
